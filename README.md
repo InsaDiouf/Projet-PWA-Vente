@@ -1,2 +1,2 @@
 # Projet-PWA-Vente
-Created with CodeSandbox
+App web de vente en ligne
